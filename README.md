@@ -37,5 +37,5 @@ A CLI-based assessment game that scores responses, calculates percentage marks, 
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [rniyafatima3344_designs]
+- **LinkedIn:** [rbiyafatima3344_designs]
 - **Email:** [rbiyafatima3344@gmail.com]
